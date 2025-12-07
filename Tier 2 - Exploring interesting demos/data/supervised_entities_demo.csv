@@ -1,0 +1,12 @@
+Entity_ID,Entity_Name,Entity_Type,Jurisdiction,Compliance_Score,Monthly_Reports,Incidents
+1,City Waste Services,Contractor,North District,92,12,1
+2,Public Transport Dept,Agency,Central City,85,12,3
+3,City Water Authority,Agency,East District,78,12,5
+4,Urban Planning Consultants,Contractor,West District,88,12,2
+5,Emergency Response Unit,Agency,Central City,95,12,0
+6,Local Library Network,Agency,South District,80,12,4
+7,Digital Gov IT Services,Contractor,Central City,90,12,1
+8,Public Parks Maintainers,Contractor,North District,83,12,3
+9,Community Health Clinics,Agency,East District,87,12,2
+10,Traffic Management Services,Contractor,Central City,89,12,2
+
